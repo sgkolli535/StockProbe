@@ -16,3 +16,5 @@ Predict stock prices with this machine learning model. After developing a LSTM n
 3) Edit filenames and graph labels as desired
 4) Run project on browser
 
+![Picture](stockprobe_pic.png)
+
