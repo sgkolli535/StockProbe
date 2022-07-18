@@ -1,6 +1,6 @@
 # StockProbe
 
-Predict stock prices with this machine learning model. After developing a LSTM neural network to work with the time-series data of stock prices over the years, the  algorithm can make predictions on the prices of future stocks. These predictions can be observed with a dashboard of graphs.
+Predict stock prices with this machine learning model. Using a stacked LSTM neural network to work with the time-series data of stock prices over the years, the  algorithm can make predictions on the prices of future stocks. These predictions can be observed with a dashboard of graphs.
 
 ## Libraries
 - Pandas
